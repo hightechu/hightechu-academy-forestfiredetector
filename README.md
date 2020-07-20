@@ -1,4 +1,4 @@
-# Forest Fire Detector - Protecting Forests from Fire
+# :evergreen_tree: Forest Fire Detector - Protecting Forests from Fire :fire:
 
 **2020 HighTechU Academy - Virtual Pilot** 
 
@@ -24,7 +24,7 @@
 
 ---
 
-### Made with :computer: using
+### Made on :computer: using
 TinkerCAD, Zoom, Slack, MURAL, and Google Slides
 
 ### Made with :heart: by
