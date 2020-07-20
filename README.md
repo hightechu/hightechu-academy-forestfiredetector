@@ -24,8 +24,8 @@
 
 ---
 
-### Made with
+### Made with :computer: using
 TinkerCAD, Zoom, Slack, MURAL, and Google Slides
 
-### Made by
+### Made with :heart: by
 Anika, Alex, Callym, Noël
