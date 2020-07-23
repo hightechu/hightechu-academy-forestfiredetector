@@ -5,20 +5,20 @@
 ---
 
 ## **3D Model**
-[Download the Model](/model) | [View the Model]()
+[View the Model]() | [Download the Model](/model)
 
 ![](/img/model.png)
 
 ---
 
 ## **Circuit Design**
-[Download the Circuit](/circuit) | [View the Circuit]()
+[View the Circuit]() | [Download the Circuit](/circuit)
 
 ![](/img/circuit.png)
 ---
 
 ## **Pitch Presentation**
-[Download the Presentation](/pitch)
+[View the Pitch](https://github.com/hightechu/hightechu-academy-forestfiredetector/blob/master/pitch/forestfiredetector-pitchdeck.pdf) | [Download the Pitch](/pitch)
 
 ![](/img/pitch.png)
 
