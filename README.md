@@ -14,7 +14,7 @@
 ## **Circuit Design**
 [View the Circuit]() | [Download the Circuit](/circuit)
 
-![](/img/circuit.png)
+![](/img/circuit.pn)
 ---
 
 ## **Pitch Presentation**
