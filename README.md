@@ -5,7 +5,7 @@
 ---
 
 ## **3D Model**
-[View the Model]() | [Download the Model](/model)
+[View the Model](https://www.tinkercad.com/things/aJLwmahxKKC) | [Download the Model](/model)
 
 ![](/img/model.png)
 
