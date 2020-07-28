@@ -4,17 +4,18 @@
 
 ---
 
+## **Circuit Design**
+[View the Circuit](https://www.tinkercad.com/things/cWyZoyC6UlY) | [Download the Circuit](/circuit)
+
+![](/img/circuit.png)
+
+---
+
 ## **3D Model**
 [View the Model](https://www.tinkercad.com/things/aJLwmahxKKC) | [Download the Model](/model)
 
 ![](/img/model.png)
 
----
-
-## **Circuit Design**
-[View the Circuit](https://www.tinkercad.com/things/cWyZoyC6UlY) | [Download the Circuit](/circuit)
-
-![](/img/circuit.png)
 ---
 
 ## **Pitch Presentation**
