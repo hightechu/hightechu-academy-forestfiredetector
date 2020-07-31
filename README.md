@@ -25,8 +25,8 @@
 
 ---
 
-### Made on :computer: using
-TinkerCAD, Zoom, Slack, MURAL, and Google Slides
+### </> on :computer: using
+[TinkerCAD](https://www.tinkercad.com), [Zoom](https://zoom.us/), [Slack](https://slack.com/), [MURAL](https://www.mural.co/), and [Google Slides](https://www.google.com/slides/about/)
 
-### Made with :heart: by
+### :hammer: with :heart: by
 Anika, Alex, Callym, Noël
